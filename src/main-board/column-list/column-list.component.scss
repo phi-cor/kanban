@@ -1,0 +1,9 @@
+@import "./task/task.component.scss";
+
+.column-list{
+    max-width:400vw;
+    max-height:100vh;
+    overflow-x:auto;
+    overflow-y:auto;
+
+}
