@@ -12,6 +12,9 @@ Il nécessite un server Apache.
 git clone https://github.com/phi-cor/kanban.git
 npm install
 ```
+# Contributeur #
+
+toto
 
 
 
